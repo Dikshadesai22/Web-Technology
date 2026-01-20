@@ -1,2 +1,2 @@
-# Web-Technology
-Repository for Web Technology Practical
+# Second Repo
+Repository for WT
